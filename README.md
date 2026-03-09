@@ -60,7 +60,7 @@ No automated tests included. To add tests, create a tests directory and use JUni
 4. Submit a pull request with a clear description
 
 ## License
-Add a license file to the project root (e.g., MIT) if you plan to share this project.
+This project is licensed under the MIT License — see the included LICENSE file for details.
 
 ## Contact
 For questions or improvements, open an issue in the repository or
