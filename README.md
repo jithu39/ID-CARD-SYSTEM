@@ -63,4 +63,4 @@ No automated tests included. To add tests, create a tests directory and use JUni
 This project is licensed under the MIT License — see the included LICENSE file for details.
 
 ## Contact
-For questions or improvements, open an issue in the repository or
+For questions or improvements, open an issue in the repository or contact the project owner.
